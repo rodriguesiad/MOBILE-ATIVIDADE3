@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atividade3</string>
+    <string name="cpf">CPF</string>
+    <string name="nome">Nome</string>
+    <string name="estado">Estado</string>
+    <string name="cidade">Cidade</string>
+    <string name="questionario">Questionário</string>
+    <string name="linguagem_programacao_preferida">De qual linguagem de programação você mais gosta?</string>
+    <string name="java">JAVA</string>
+    <string name="php">PHP</string>
+    <string name="c">C#</string>
+    <string name="paradigma_preferido">Qual paradigma de programação você prefere?</string>
+    <string name="procedural">Procedural</string>
+    <string name="poo">POO</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="salvar">SALVAR</string>
+</resources>
